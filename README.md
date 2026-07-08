@@ -42,8 +42,8 @@ Some automation projects I have built while learning:
 - CV Processing Automation
 - Stock and Price Monitoring Automation
 - Customer Support Automation
-
 These projects helped me understand workflow automation, integrations, and how automation can solve repetitive business tasks.
+
 ---
 ## 🌱 My Goal
 My goal is to grow as a QA Automation professional while developing my skills in AI Workflow Automation.

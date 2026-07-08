@@ -1,36 +1,56 @@
-# Strengths
-
-**Programming & Development Knowledge**
-
-- Majored in Web and Mobile Development at the University of Santo Tomas.                                                             
-- Proficient in PHP, Python, and Android programming.                                       
-- Familiar with Java (challenging but knowledgeable).
-
-**Tools & Technical Skills**                                                                                                           
-- Experienced with developer tools: GitHub, VS Code, Eclipse, Balsamiq/Wireframes, and Linux Ubuntu.                     
-- Proficient in Microsoft Word, Excel, and PowerPoint.                           
-
-**Communication & Team Collaboration**                                          
-- Skilled in active listening and adapting communication styles to different people.                 
-- Able to create positive, collaborative team environments.                     
-- Proficient in spoken and written English; continuously working to improve fluency.                           
-
-# Values
-**Commitment to Lifelong Learning**                                                                  
-- I believe in continuously improving my skills and knowledge, especially in the evolving field of IT and cybersecurity.
-
-**Protecting People and Systems**                                                              
-- I am motivated by the idea of creating safer digital spaces for individuals, communities, and organizations.
-
-# Clarifying Questions & Answers
-1. What most interests me about the field of cybersecurity?                                       
-- I am most interested in the idea of defending digital systems and people from cyber threats. The complexity, constant learning, and real-world impact of cybersecurity make it both exciting and meaningful for me.
-
-2. Who is the audience for my professional statement?                               
-- Cybersecurity recruiters, IT hiring managers, and organizations (public or private) looking for dedicated, adaptable professionals transitioning into cybersecurity.
-
-3. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?                                                  
-- With my foundation in programming, communication, and analytical thinking, I can contribute to building secure systems and fostering a culture of security awareness. My commitment to continuous learning ensures that I can quickly adapt to evolving threats and tools in the field.
-
-# Professional Statement 
-- I am a passionate IT graduate at University of Santo Tomas, Manila with a background in web and mobile development, now focused on pursuing a career in cybersecurity. I bring strong programming skills, communication, and teamwork, combined with a deep value for protecting people and organizations from digital threats. With a commitment to continuous learning, I aim to support organizations in building secure systems and maintaining a strong security posture.
+# Hi, I'm Miguel Khristian Abular 👋
+## About Me
+I am an Information Technology graduate majoring in Website and Mobile Development.
+My background is in software development, web technologies, and quality assurance. During my internship, I gained experience as a Manual QA Tester, where I learned about software testing processes, test execution, and improving software quality.
+Currently, I am focusing on building my skills in **QA Automation** and **AI Workflow Automation** by creating automation projects and exploring modern tools that help improve productivity and business processes.
+I enjoy learning how technology can be used to solve real-world problems through testing, automation, and continuous improvement.
+---
+## 🎯 Current Focus
+- QA Automation using Playwright
+- AI Workflow Automation using n8n
+- REST API Testing
+- Improving JavaScript skills
+- Learning software quality practices
+---
+## 🛠 Skills & Tools
+### Testing & Automation
+- Manual Testing
+- Playwright
+- n8n Workflow Automation
+### Programming & Web Technologies
+- JavaScript
+- Python
+- PHP
+- HTML
+- CSS
+### Tools
+- Git & GitHub
+- VS Code
+- Linux Ubuntu
+### Currently Learning
+- REST APIs
+- API Testing
+- SQL
+- CI/CD Fundamentals
+---
+## 📂 Projects
+Some automation projects I have built while learning:
+- Lead Capture and Follow-up Automation
+- AI Appointment Booking Workflow
+- Invoice Generator Automation
+- Customer Feedback Collection Workflow
+- CV Processing Automation
+- Stock and Price Monitoring Automation
+- Customer Support Automation
+These projects helped me understand workflow automation, integrations, and how automation can solve repetitive business tasks.
+---
+## 🌱 My Goal
+My goal is to grow as a QA Automation professional while developing my skills in AI Workflow Automation.
+I am passionate about building reliable automation solutions that improve software quality, reduce repetitive tasks, and help businesses improve their processes.
+I am continuously learning, building projects, and expanding my knowledge in test automation, AI integrations, and modern automation tools.
+---
+## 📫 Contact
+LinkedIn:
+www.linkedin.com/in/miguel-khristian-abular-866479217
+Email:
+abularmkt@gmail.com 

@@ -11,8 +11,8 @@ I enjoy learning how technology can be used to solve real-world problems through
 - QA Automation using Playwright
 - AI Workflow Automation using n8n
 - REST API Testing
-- Improving JavaScript skills
-- Learning software quality practices
+- Learning REST APIs and API Testing
+- Building JavaScript skills for automation
 ---
 ## 🛠 Skills & Tools
 ### Testing & Automation

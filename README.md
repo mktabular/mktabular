@@ -42,6 +42,7 @@ Some automation projects I have built while learning:
 - CV Processing Automation
 - Stock and Price Monitoring Automation
 - Customer Support Automation
+
 These projects helped me understand workflow automation, integrations, and how automation can solve repetitive business tasks.
 ---
 ## 🌱 My Goal
@@ -52,5 +53,6 @@ I am continuously learning, building projects, and expanding my knowledge in tes
 ## 📫 Contact
 LinkedIn:
 www.linkedin.com/in/miguel-khristian-abular-866479217
+
 Email:
 abularmkt@gmail.com 

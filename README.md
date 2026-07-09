@@ -38,7 +38,7 @@ I enjoy learning how technology can be used to solve real-world problems through
 ## 📂 Projects
 Some automation projects I have built while learning:
 - Lead Capture and Follow-up Automation
-- AI Appointment Booking Workflow
+- [AI Appointment Booking Assistant](https://github.com/mktabular/ai-appointment-booking-n8n) — n8n workflow that books appointments and automatically checks Google Calendar for conflicts
 - Invoice Generator Automation
 - Customer Feedback Collection Workflow
 - CV Processing Automation

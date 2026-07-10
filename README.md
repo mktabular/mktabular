@@ -41,7 +41,7 @@ Some automation projects I have built while learning:
 - [AI Appointment Booking Assistant](https://github.com/mktabular/ai-appointment-booking-n8n) — n8n workflow that books appointments and automatically checks Google Calendar for conflicts
 - Invoice Generator Automation
 - Customer Feedback Collection Workflow
-- CV Processing Automation
+- [CV Processing Automation](https://github.com/mktabular/cv-processing-automation) — AI-powered workflow that screens job applications, extracts CV content, and evaluates candidates using Google Gemini
 - Stock and Price Monitoring Automation
 - Customer Support Automation
 
